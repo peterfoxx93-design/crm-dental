@@ -9,6 +9,7 @@ const ITEMS = [
   { href: "/pacientes", label: "Pacientes" },
   { href: "/pipeline", label: "Pipeline" },
   { href: "/presupuestos", label: "Presupuestos" },
+  { href: "/ajustes", label: "Ajustes" },
 ];
 
 export function AppNav() {
